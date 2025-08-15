@@ -136,6 +136,3 @@ Look at the camera and **blink twice** to pass the liveness check. The system wi
 - The accuracy of the model is highly dependent on the quality of the dataset. Ensure good lighting and varied (but slight) head poses during dataset creation.
 - If you consistently encounter "Bad Pose" or "Blurry" feedback, consider adjusting the `POSE_THRESHOLD` and `BLUR_THRESHOLD` values in the `create_dataset.py` script to better suit your camera and environment.
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
