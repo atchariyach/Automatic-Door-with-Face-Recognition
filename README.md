@@ -1,5 +1,3 @@
-# Automatic-Door-with-Face-Recognition
-A Python-based face recognition system for controlling an automatic door, with liveness detection using a double-blink feature to prevent spoofing.
 # 🔒 Ultimate Secure Face Recognition System
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg) ![OpenCV](https://img.shields.io/badge/OpenCV-4.x-green.svg) ![Keras](https://img.shields.io/badge/Keras-TensorFlow-red.svg) ![Arduino](https://img.shields.io/badge/Arduino-Control-cyan.svg)
