@@ -28,7 +28,7 @@ A multi-layered, real-time face recognition system for secure access control. Th
   - Webcam
   - Arduino UNO (or a compatible board)
 
-## 📂 Project Structure
+## 📂 Project Structure..
 
 ```
 .
